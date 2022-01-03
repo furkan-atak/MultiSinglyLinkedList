@@ -1,2 +1,2 @@
 # MultiSinglyLinkedList
-structure of multi singly linked list, hash, queue (with array structure) and queue (with linkedlist) using java.
+structure of multi singly linked list which means every single node of a linked list has it's own linked list. using JAVA
